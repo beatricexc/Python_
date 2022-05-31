@@ -1,2 +1,4 @@
 # Python_
-small projects
+- methods
+- functions
+- small programs 
