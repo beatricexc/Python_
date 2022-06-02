@@ -1,4 +1,5 @@
 # Python_
 - methods
 - functions
-- small programs 
+- built-in functions
+- data types & data structures
