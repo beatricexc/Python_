@@ -1,5 +1,6 @@
 # Python_
 - methods
-- functions
+- functions + BIF
 - built-in functions
 - data types & data structures
+- projects
