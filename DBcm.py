@@ -4,7 +4,7 @@ import mysql.connector
 class UseDatabase:
     
     def __init__(self, config: dict) -> None:
-        self.configutaration = config
+        self.configuration = config
         
     def __enter_(self) -> 'cursor':
         self.conn = mysql.connector.connect(**self.configuration)
